@@ -13,7 +13,7 @@
                             "TIME_CAN_SHOW_OUT": 129600000,
                             "TIME_SPACING_LOAD_OUT":480000,
                             "ID_ADS_FB_OUT":"1916043408507537_1917317445046800",
-                            "ID_ADS_ADM_OUT":"ca-app-pub-3940256099942544/1033173712",
+                            "ID_ADS_ADM_OUT":"ca-app-pub-3940256099942544/1033173712"
                         },
                     "data_in":
                         {
@@ -22,7 +22,7 @@
                             "ID_ADS_FB_Interstitial_IN":"1916043408507537_1917317445046800",
                             "ID_ADS_ADM_Interstitial_IN_START":"ca-app-pub-3940256099942544/1033173712",
                             "ID_ADS_ADM_Interstitial_IN":"ca-app-pub-3940256099942544/1033173712",
-                            "ID_ADS_ADM_Banner_IN":"ca-app-pub-3940256099942544/1033173712",
+                            "ID_ADS_ADM_Banner_IN":"ca-app-pub-3940256099942544/1033173712"
                         }
                 }
             ]
