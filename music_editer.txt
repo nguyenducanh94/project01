@@ -1,1 +1,15 @@
-{"data":[{"music_editer":{"data1":"1","data2":"data2","data3":"data3"},{"screen_recoder":{"data1":"1","data2":"data2","data3":"data3"}]}
+{"data":[
+    {
+        "name" : "Nguyễn Văn Cường",
+        "age" : "21 tuổi"
+    },
+    {
+        "name" : "Nguyễn Văn Kính",
+        "age" : "22 tuổi"
+    },
+    {
+        "name" : "Nguyễn Văn Chính",
+        "age" : "23 tuổi"
+    }
+]
+}
