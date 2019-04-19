@@ -1,0 +1,32 @@
+{
+    "day_update":"15:58_19_04_2019",
+    "big_data":[
+        {
+            "app_name":"music_editer",
+            "data_app":[
+                {
+                    "pass_out":"15:58_19_04_2019",
+                    "data_out":
+                        {
+                            "CAN_SHOW_OUT_ADS": true,
+                            "CAN_SHOW_OUT_ADS_LOG_SCREEN": false,
+                            "TIME_CAN_SHOW_OUT": 129600000,
+                            "TIME_SPACING_LOAD_OUT":480000,
+                            "ID_ADS_FB_OUT":"1916043408507537_1917317445046800",
+                            "ID_ADS_ADM_OUT":"ca-app-pub-3940256099942544/1033173712"
+                        },
+                    "pass_in":"15:58_19_04_2019",
+                    "data_in":
+                        {
+                            "TIME_SPACING_LOAD_IN":10000,
+                            "ID_ADS_FB_Interstitial_IN_START":"1916043408507537_1917317445046800",
+                            "ID_ADS_FB_Interstitial_IN":"1916043408507537_1917317445046800",
+                            "ID_ADS_ADM_Interstitial_IN_START":"ca-app-pub-3940256099942544/1033173712",
+                            "ID_ADS_ADM_Interstitial_IN":"ca-app-pub-3940256099942544/1033173712",
+                            "ID_ADS_ADM_Banner_IN":"ca-app-pub-3940256099942544/1033173712"
+                        }
+                }
+            ]
+       }
+    ]
+}
