@@ -5,7 +5,7 @@
             "app_name":"music_editer",
             "data_app":[
                 {
-                    "pass_code":"15:58_19_04_2019",
+                    "pass_out":"15:58_19_04_2019",
                     "data_out":
                         {
                             "CAN_SHOW_OUT_ADS": true,
@@ -15,6 +15,7 @@
                             "ID_ADS_FB_OUT":"1916043408507537_1917317445046800",
                             "ID_ADS_ADM_OUT":"ca-app-pub-3940256099942544/1033173712"
                         },
+                    "pass_in":"15:58_19_04_2019",
                     "data_in":
                         {
                             "TIME_SPACING_LOAD_IN":10000,
@@ -26,6 +27,6 @@
                         }
                 }
             ]
-        }
+       }
     ]
 }
